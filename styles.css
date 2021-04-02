@@ -1,0 +1,27 @@
+/* Author: Rodrigo Orellana */
+body * {
+    margin: 0px;
+    padding: 0px;
+    outline: 1px dashed red;
+   }
+body div {
+  margin-left: 33%;
+}
+
+img:nth-child(1){
+    border: solid red;
+}
+img:nth-child(2){
+    border: solid blue;
+}
+img:nth-child(3){
+    border: solid brown;
+}
+img:nth-child(4){
+    border: solid dodgerblue;
+}
+
+img {
+    margin: 1%;
+    display:block;
+}
